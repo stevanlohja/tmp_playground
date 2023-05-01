@@ -24,11 +24,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Logs**
-Any logs when the problem occurred.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Logs and Screenshots**
+If applicable, add logs and screenshots to help explain your problem.
 
 **Enviorment:**
  - OS: [e.g. iOS]
