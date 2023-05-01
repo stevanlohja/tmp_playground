@@ -1,0 +1,42 @@
+name: Bug Report Template
+description: Template for reporting bugs
+
+# Define the issue labels for categorization
+labels:
+  - bug
+
+# Define the fields for the issue form
+title:
+  name: Title
+  description: Please provide a brief summary of the issue.
+  type: text
+
+description:
+  name: Description
+  description: Please provide a detailed description of the issue.
+  type: textarea
+
+repro_steps:
+  name: Reproduction Steps
+  description: Please provide steps to reproduce the issue.
+  type: textarea
+
+expected_behavior:
+  name: Expected Behavior
+  description: What do you expect to happen?
+  type: textarea
+
+actual_behavior:
+  name: Actual Behavior
+  description: What actually happens?
+  type: textarea
+
+screenshots:
+  name: Screenshots
+  description: Please add screenshots if applicable.
+  type: file
+
+environment:
+  name: Environment
+  description: Please provide any relevant environment details.
+  type: text

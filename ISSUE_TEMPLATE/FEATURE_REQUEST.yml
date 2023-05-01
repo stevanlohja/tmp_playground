@@ -1,0 +1,42 @@
+name: Feature Request Template
+description: Template for requesting features
+
+# Define the issue labels for categorization
+labels:
+  - enhancement
+
+# Define the fields for the issue form
+title:
+  name: Title
+  description: Please provide a brief summary of the feature request.
+  type: text
+
+description:
+  name: Description
+  description: Please provide a detailed description of the feature request.
+  type: textarea
+
+use_case:
+  name: Use Case
+  description: Please provide a use case for this feature request.
+  type: textarea
+
+benefits:
+  name: Benefits
+  description: What benefits would this feature provide?
+  type: textarea
+
+alternative_solutions:
+  name: Alternative Solutions
+  description: Are there any alternative solutions or workarounds?
+  type: textarea
+
+priority:
+  name: Priority
+  description: How important is this feature request?
+  type: select
+  options:
+    - Low
+    - Medium
+    - High
+    - Critical
