@@ -2,7 +2,6 @@ name: DApp Proposal
 description: Define a new DApp using a minimum viable Product Requirements Doc.
 title: "[DApp]: "
 labels: ["dapp-proposal", "public", "hacktoberfest"]
-assignees: ""
 body:
   - type: markdown
     attributes:
