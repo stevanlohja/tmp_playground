@@ -2,6 +2,7 @@ name: 🚀 Feature Request
 description: Propose a new feature or enhancement.
 title: "[Feature]: "
 labels: ["enhancement", "public"]
+assignees: ""
 body:
   - type: markdown
     attributes:
@@ -58,6 +59,6 @@ body:
   - type: textarea
     id: alternatives
     attributes:
-Such-a-good-markdown-template      label: Alternatives Considered (Optional)
+      label: Alternatives Considered (Optional)
       description: What other ways could we solve this problem, and why is this proposal better?
       placeholder: "We could also [do X], but that wouldn't be as good because [reason]."
