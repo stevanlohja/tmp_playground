@@ -1,8 +1,7 @@
 name: 🚀 Feature Request
 description: Propose a new feature or enhancement.
 title: "[Feature]: "
-labels: ["enhancement", "public"]
-assignees: ""
+labels: ['enhancement']
 body:
   - type: markdown
     attributes:
